@@ -110,6 +110,7 @@ st.markdown('''
 ''')
 txt('**Senior Data Analyst**,Business Gateways International,Chennai','2022-Till now')
 st.markdown('''
+- Obtained Google Analytics Certification for GA4 from Google.
 
 - Created Own Customized Business Intelligence tool(Apache Superset) and created dashboards based on Mysql queries and integrated in Web applications.
 
